@@ -36,7 +36,7 @@ int main() {
     /* Example f : (%=) Modulus Assignment Operator 
     it finds the remainder after division and stores it back in the same variable.*/
     int f = 8;
-    f %= 3;   // a = f % 3
+    f %= 3;   // f = f % 3
     printf("%d\n", f);
     
     return 0;
